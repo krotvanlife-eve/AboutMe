@@ -7,6 +7,9 @@
   font-weight: <300>;
   font-style: normal;
 }
+img {
+  border-radius: 8px;
+}
 
 body {
     font-family: "Red Hat Display", sans-serif;
