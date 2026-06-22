@@ -1,0 +1,39 @@
+// <weight>: 300
+// <uniquifier>: googlefonts
+
+.red-hat-display-<googlefonts> {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <300>;
+  font-style: normal;
+}
+
+body {
+    font-family: "Red Hat Display", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #E0CBF7;
+    color: #131847;
+}
+
+header {
+    background-color: #D8BCF5;
+    color: black;
+    text-align: center;
+    padding: 2rem;
+}
+
+main {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: #D8BCF5;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    color: #CB9EF7;
+}
